@@ -131,7 +131,7 @@ Ce projet illustre une approche complète de l’analyse de données RH, depuis 
 
 Une courte vidéo présente la navigation, les filtres interactifs et les principaux axes d’analyse du tableau de bord RH.
 
-👉 [Voir la vidéo de démonstration du rapport Power BI] :
+👉 Voir la vidéo de démonstration du rapport Power BI :
 
 https://drive.google.com/file/d/1PjExT15yWSn8nZs6dsVz2yTGGnHSdvQS/view?usp=sharing
 

@@ -271,3 +271,6 @@ Il met en avant ma capacité à :
 - Comparaison inter-agences
 
 - Optimisation du modèle pour un volume de données plus important
+
+## 🎥 Vidéo de démonstration du dashboard
+https://drive.google.com/file/d/1f9Hia7-X5y4YB43Ac-3PmXHJEFpTaKPh/view?usp=sharing
